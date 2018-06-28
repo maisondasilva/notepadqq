@@ -59,7 +59,7 @@
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="22"/>
         <source>Use spaces</source>
-        <translation>Utiliser des espaces</translation>
+        <translation>Utilizar espaços</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="27"/>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="34"/>
         <source>Use %1 spaces</source>
-        <translation>Utiliser %1 espaces</translation>
+        <translation>Utilizar %1 espaços</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="38"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../ui/Search/filesearchresultswidget.cpp" line="29"/>
         <source>Clear</source>
-        <translation>Effacer</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
@@ -155,7 +155,7 @@
     <message>
         <location filename="../ui/Extensions/installextension.ui" line="14"/>
         <source>Install Extension</source>
-        <translation>Installer une extension</translation>
+        <translation>Instalar uma extensão</translation>
     </message>
     <message>
         <location filename="../ui/Extensions/installextension.ui" line="102"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../ui/Extensions/installextension.cpp" line="55"/>
         <source>Update</source>
-        <translation>Mettre à jour</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="../ui/Extensions/installextension.cpp" line="104"/>
@@ -215,7 +215,7 @@
     <message>
         <location filename="../ui/keygrabber.cpp" line="13"/>
         <source>Action</source>
-        <translation>Action</translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <location filename="../ui/keygrabber.cpp" line="13"/>
@@ -233,17 +233,17 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="50"/>
         <source>&amp;File</source>
-        <translation>&amp;Fichier</translation>
+        <translation>&amp;Arquivo</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="54"/>
         <source>Recent Files</source>
-        <translation>Fichiers récents</translation>
+        <translation>Arquivos recentes</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="81"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Édition</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="85"/>
@@ -278,17 +278,17 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="155"/>
         <source>&amp;Search</source>
-        <translation>&amp;Chercher</translation>
+        <translation>&amp;Pesquisar</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="168"/>
         <source>&amp;View</source>
-        <translation>&amp;Affichage</translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="172"/>
         <source>Show Symbol</source>
-        <translation>Afficher les symboles</translation>
+        <translation>Mostrar simbolos</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="184"/>
@@ -308,12 +308,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="229"/>
         <source>&amp;Language</source>
-        <translation>&amp;Langage</translation>
+        <translation>&amp;Idioma</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="236"/>
         <source>Se&amp;ttings</source>
-        <translation>&amp;Réglages</translation>
+        <translation>Config&amp;urações</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="242"/>
@@ -323,22 +323,22 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="249"/>
         <source>Run</source>
-        <translation>Exécuter</translation>
+        <translation>Executar</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="256"/>
         <source>&amp;Window</source>
-        <translation>&amp;Fenêtre</translation>
+        <translation>&amp;Janela</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="262"/>
         <source>Extensions</source>
-        <translation>Extensions</translation>
+        <translation>Extenções</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="281"/>
         <source>Toolbar</source>
-        <translation>Barre d&apos;outils</translation>
+        <translation>Barre de tarefa</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="325"/>
@@ -348,7 +348,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="349"/>
         <source>&amp;Open...</source>
-        <translation>&amp;Ouvrir...</translation>
+        <translation>&amp;Abrir...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="352"/>
@@ -358,7 +358,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="357"/>
         <source>&amp;New</source>
-        <translation>&amp;Nouveau</translation>
+        <translation>&amp;Novo</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="360"/>
@@ -368,12 +368,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="365"/>
         <source>Reload from Disk</source>
-        <translation>Recharger à partir du disque</translation>
+        <translation>Recarregar a partir do Disco</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="370"/>
         <source>&amp;Save</source>
-        <translation>Enregi&amp;strer</translation>
+        <translation>&amp;Salvar</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="373"/>
@@ -383,12 +383,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="378"/>
         <source>Save &amp;As...</source>
-        <translation>Enregistrer &amp;sous...</translation>
+        <translation>Salvar &amp;Para...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="381"/>
         <source>Save As...</source>
-        <translation>Enregistrer sous...</translation>
+        <translation>Salvar Para...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="384"/>
@@ -398,12 +398,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="389"/>
         <source>Save a Copy As...</source>
-        <translation>Enregistrer une copie sous...</translation>
+        <translation>Salvar e Copiar para...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="394"/>
         <source>Sav&amp;e All</source>
-        <translation>Tout enr&amp;egistrer</translation>
+        <translation>Salvar&amp;Tudo</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="397"/>
@@ -413,12 +413,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="402"/>
         <source>Rename...</source>
-        <translation>Renommer...</translation>
+        <translation>Renomear...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="407"/>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="410"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="415"/>
         <source>C&amp;lose All</source>
-        <translation>Tout &amp;fermer</translation>
+        <translation>F&amp;echar Todos</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="420"/>
